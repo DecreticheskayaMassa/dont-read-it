@@ -1,1 +1,1 @@
-print("ded")
+print("Hello from ITSTEP")
